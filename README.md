@@ -38,3 +38,4 @@ The current process to accept pull requests is by manually reviewing them and ac
 |An open source journal for publically hosted data science projects|General|Anonymous|
 |A website that shares a Kermit quote to green up your day|General|gildurao
 |A contest Bot which can observe your pattern and using your calender automatically notify you about upcoming contest on platforms like codeforces|Competitive Programming|Dheeraj|
+|An app that teaches DigitalOcean how to manage their shirt stock properly|Management|gildurao
